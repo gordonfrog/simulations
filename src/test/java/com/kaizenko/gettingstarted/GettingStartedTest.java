@@ -8,7 +8,11 @@ class GettingStartedTest {
 
 	@Test
 	void test() {
-		fail("You are all set!");
+		//0 = 32
+		//-40 = -40
+		//100 = 212
+		System.out.println("You are all set!");
+		//fail("You are all set!");
 	}
 
 }
